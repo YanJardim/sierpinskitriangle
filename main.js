@@ -33,7 +33,7 @@ function setup(){
         
     }
     
-    frameRate(10);
+    //frameRate(10);
 }
 
 function draw(){
